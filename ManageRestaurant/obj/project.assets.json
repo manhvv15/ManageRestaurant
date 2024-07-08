@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\Ki8\\ManageRestaurant\\ManageRestaurant\\ManageRestaurant.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\Ki8\\Project\\ManageRestaurant\\ManageRestaurant\\ManageRestaurant.csproj",
       "projectName": "ManageRestaurant",
-      "projectPath": "C:\\Users\\hp\\Documents\\Ki8\\ManageRestaurant\\ManageRestaurant\\ManageRestaurant.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\Ki8\\Project\\ManageRestaurant\\ManageRestaurant\\ManageRestaurant.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\Ki8\\ManageRestaurant\\ManageRestaurant\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\Ki8\\Project\\ManageRestaurant\\ManageRestaurant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
